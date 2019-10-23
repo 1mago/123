@@ -53,14 +53,15 @@ h1, h2, h3, h4, h5, h6{
 
 
 .intro__inner {
-	width: 100%;
-	max-width: 660px;
+	width: 50%;
+	max-width: 500px;
 	font-family: 'Aldrich', sans-serif;
 	text-align: left;
 	vertical-align: bottom;
 	padding-top: 200px;
 	color: #FFCC00;
 	padding-top: 150px;
+	
 }
 
 
@@ -76,10 +77,13 @@ h1, h2, h3, h4, h5, h6{
 }
 
 .header__logo {
-	font-size: 30px;
-	font-weight: 700;
-	color: #FFF;
-	text-align: left;
+	width: 30%;
+	height: 80px;
+
+	background: url("https://cdn.discordapp.com/attachments/629742219883970590/636485491906052097/footer-logo.png") left
+	no-repeat;
+	
+
 
 }
 
@@ -93,6 +97,7 @@ h1, h2, h3, h4, h5, h6{
 .nav {
 	font-size: 14px;
 	text-transform: uppercase;
+	
 }
 
 .nav__link {
@@ -102,6 +107,7 @@ h1, h2, h3, h4, h5, h6{
 	text-decoration: none;
 	transition: color .3s linear;
 	position: relative;
+	
 
 }
 
@@ -115,7 +121,7 @@ h1, h2, h3, h4, h5, h6{
 	top: 100%
 	left: 0;
 	z-index: 1;
-
+	
 }
 
 .nav__link:hover {
@@ -131,6 +137,7 @@ padding-top: 25px;
 	font-family: 'Aldrich', sans-serif;
 	margin-left: 200px;
 	bottom: 275px;
+	
 }
 
 .text_2 {
@@ -138,10 +145,33 @@ padding-top: 25px;
 	font-family: 'Aldrich', sans-serif;
 	margin-left: 200px;
 	bottom: 175px;
+	
 }
 
-.load {
-
-	width: 40%;
+.text_3 {
+ 	position: absolute;
+	font-family: 'Aldrich', sans-serif;
+	padding-left: 1325px;
+	bottom: 500px;
+	color: #FFCC00;
 	
+}
+
+
+.text_4 {
+	position: absolute;
+	font-family: 'Aldrich', sans-serif;
+	padding-left: 1325px;
+	bottom: 400px;
+	color: #FFCC00;
+
+}
+
+.text_5 {	
+	position: absolute;
+	font-family: 'Aldrich', sans-serif;
+	padding-left: 1325px;
+	bottom: 215px;
+	
+
 }
