@@ -152,7 +152,7 @@ padding-top: 25px;
  	position: absolute;
 	font-family: 'Aldrich', sans-serif;
 	padding-left: 1325px;
-	bottom: 500px;
+	bottom: 555px;
 	color: #FFCC00;
 	
 }
@@ -162,8 +162,8 @@ padding-top: 25px;
 	position: absolute;
 	font-family: 'Aldrich', sans-serif;
 	padding-left: 1325px;
-	bottom: 260px;
-	color: #FFCC00;
+	bottom: 165px;
+	color: #FFCC00
 
 }
 
@@ -171,7 +171,7 @@ padding-top: 25px;
 	position: absolute;
 	font-family: 'Aldrich', sans-serif;
 	padding-left: 1325px;
-	bottom: 75px;
+	bottom: -20px;
 	
 }
 
@@ -179,7 +179,7 @@ padding-top: 25px;
 	position: absolute;
 	font-family: 'Aldrich', sans-serif;
 	padding-left: 1325px;
-	bottom: 35px;
+	bottom: -60px;
 	color: #FFCC00;
 
 }
@@ -188,7 +188,9 @@ padding-top: 25px;
 
 	width: 3.1%;
 	height: 275px;
-	
+	margin-left: 1325px;
+	position: absolute;
+	bottom: 260px;
 
 	background: url("https://www.menada-winery.com/images/homepage/menada-bottle-s.png"); right: 
 	
@@ -197,32 +199,109 @@ padding-top: 25px;
 
 .bottle_pic_2 {
 
+	width: 3.1%;
+	height: 275px;
+	margin-left: 1365px;
+	position: absolute;
+	bottom: 260px;
+
+
+	background: url("https://www.menada-winery.com/images/homepage/menada-bottle-t.png"); right;
+
 }
 
 .bottle_pic_3 {
+
+	width: 3.1%;
+	height: 275px;
+	margin-left: 1405px;
+	position: absolute;
+	bottom: 260px;
+
+	background: url("https://www.menada-winery.com/images/homepage/menada-bottle-c.png"); right: 
 
 }
 
 .bottle_pic_4 {
 
+	width: 3.1%;
+	height: 275px;
+	margin-left: 1445px;
+	position: absolute;
+	bottom: 260px;
+
+	background: url("https://www.menada-winery.com/images/homepage/menada-bottle-m.png");
+
 }
 
 .bottle_pic_5 {
+
+	width: 3.1%;
+	height: 275px;
+	margin-left: 1485px;
+	position: absolute;
+	bottom: 260px;
+
+	background: url("https://www.menada-winery.com/images/homepage/menada-bottle-r.png");
 
 }
 
 .bottle_pic_6 {
 
+	width: 3.1%;
+	height: 275px;
+	margin-left: 1525px;
+	position: absolute;
+	bottom: 260px;
+
+	background: url("https://www.menada-winery.com/images/homepage/menada-bottle-c-red.png");
+
 }
 
 .bottle_pic_7 {
+
+	width: 3.1%;
+	height: 275px;
+	margin-left: 1565px;
+	position: absolute;
+	bottom: 260px;
+
+	background: url("https://www.menada-winery.com/images/homepage/menada-bottle-m-red.png");
 
 }
 
 .bottle_pic_8 {
 
+	width: 3.1%;
+	height: 275px;
+	margin-left: 1605px;
+	position: absolute;
+	bottom: 260px;
+
+	background: url("https://www.menada-winery.com/images/homepage/menada-bottle-m-violet.png");
+
 }
 
+.honor_pic {
+
+	
+	width: 4%;
+	height: 120px;
+	position: absolute;
+	bottom: 720px;
+
+	background: url("https://www.menada-winery.com/images/homepage/hm_label.png?v=20180612");
+
+}
+
+.one_grape_pic {
+
+	width: 40%;
+	height: 445px;
+	position: absolute;
+	background: url("https://www.menada-winery.com/images/homepage/single-white-grape.png"); left;
+
+}
 
 
 
