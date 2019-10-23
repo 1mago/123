@@ -162,7 +162,7 @@ padding-top: 25px;
 	position: absolute;
 	font-family: 'Aldrich', sans-serif;
 	padding-left: 1325px;
-	bottom: 400px;
+	bottom: 260px;
 	color: #FFCC00;
 
 }
@@ -171,7 +171,60 @@ padding-top: 25px;
 	position: absolute;
 	font-family: 'Aldrich', sans-serif;
 	padding-left: 1325px;
-	bottom: 215px;
+	bottom: 75px;
+	
+}
+
+.text_6 {
+	position: absolute;
+	font-family: 'Aldrich', sans-serif;
+	padding-left: 1325px;
+	bottom: 35px;
+	color: #FFCC00;
+
+}
+
+.bottle_pic_1 {
+
+	width: 3.1%;
+	height: 275px;
+	
+
+	background: url("https://www.menada-winery.com/images/homepage/menada-bottle-s.png"); right: 
 	
 
 }
+
+.bottle_pic_2 {
+
+}
+
+.bottle_pic_3 {
+
+}
+
+.bottle_pic_4 {
+
+}
+
+.bottle_pic_5 {
+
+}
+
+.bottle_pic_6 {
+
+}
+
+.bottle_pic_7 {
+
+}
+
+.bottle_pic_8 {
+
+}
+
+
+
+
+
+
