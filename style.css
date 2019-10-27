@@ -366,3 +366,35 @@ padding-top: 25px;
 	top: 1500px;
 }
 
+.dws {
+	position: absolute;
+	top: 174.5%;
+	left: 63.1%;
+
+}
+
+.butt {
+	border: 3px solid #FFCC00;
+	font-size: 30px;
+	color: #FFCC00;
+	text-decoration: none;
+	width: 250px;
+	height: 60px;
+	display: block;
+	text-align: center;
+	line-height: 60px;
+	font-family: 'Aldrich', sans-serif;
+	position: relative;
+
+}
+
+.butt:before {
+	position: absolute;
+	content: '';
+	width: 100%
+	height: 100%;
+	background: #FFCC00
+	top: 0;
+	left: -100%;
+	opacity: .5;
+}
