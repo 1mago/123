@@ -388,7 +388,7 @@ padding-top: 25px;
 
 }
 
-.butt:before {
+.butt::before {
 	position: absolute;
 	content: '';
 	width: 100%
