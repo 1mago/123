@@ -184,6 +184,14 @@ padding-top: 25px;
 
 }
 
+.text_7 {
+	position: absolute;
+	font-family: 'Aldrich', sans-serif;
+	text-align: center;
+	margin-left: 750px;
+	margin-top: 350px;
+}
+
 .bottle_pic_1 {
 
 	width: 3.1%;
@@ -299,10 +307,20 @@ padding-top: 25px;
 	width: 40%;
 	height: 445px;
 	position: absolute;
-	background: url("https://www.menada-winery.com/images/homepage/single-white-grape.png"); left;
 
+	background: url("https://www.menada-winery.com/images/homepage/single-white-grape.png"); left;
+	z-index: 2;
 }
 
+.grapevine_pic {
+
+	width: 55%;
+	height: 600px;
+	position: absolute;
+	margin-left: 400px;
+	margin-top: 75px;
+	background: url("https://www.menada-winery.com/images/homepage/home-intro-video-bg-white-grape.jpg");	
+}
 
 
 
