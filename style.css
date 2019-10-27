@@ -188,7 +188,7 @@ padding-top: 25px;
 	position: absolute;
 	font-family: 'Aldrich', sans-serif;
 	text-align: center;
-	margin-left: 750px;
+	margin-left: 650px;
 	margin-top: 350px;
 }
 
@@ -196,7 +196,7 @@ padding-top: 25px;
 	position: absolute;
 	font-family: 'Aldrich', sans-serif;
 	color: #FFCC00;
-	margin-left: 750px;
+	margin-left: 650px;
 	margin-top: 500px;
 }
 
@@ -206,6 +206,15 @@ padding-top: 25px;
 	margin-left: 800px;
 	margin-top: 700px;
 	text-align: center;
+
+}
+
+.text_10 { 
+	position: absolute;
+	font-family: 'Aldrich', sans-serif;
+	bottom: 190px;
+	
+	
 }
 
 .bottle_pic_1 {
@@ -356,10 +365,21 @@ padding-top: 25px;
 
 }
 
+.video_pic {
+	
+	width: 305px;
+	height: 285px;
+	position: absolute;
+	background: url("https://www.menada-winery.com/images/homepage/video-player-bg.jpg");
+	bottom: 260px;
+	right: 0px;
+
+}
+
 
 .dws {
 	position: absolute;
-	top: 182.4%;
+	top: 173.9%;
 	left: 63%;
 
 }
