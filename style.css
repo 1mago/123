@@ -192,6 +192,22 @@ padding-top: 25px;
 	margin-top: 350px;
 }
 
+.text_8 {
+	position: absolute;
+	font-family: 'Aldrich', sans-serif;
+	color: #FFCC00;
+	margin-left: 750px;
+	margin-top: 500px;
+}
+
+.text_9 {
+	position: absolute;
+	font-family: 'Aldrich', sans-serif;
+	margin-left: 800px;
+	margin-top: 700px;
+	text-align: center;
+}
+
 .bottle_pic_1 {
 
 	width: 3.1%;
@@ -296,7 +312,7 @@ padding-top: 25px;
 	width: 4%;
 	height: 120px;
 	position: absolute;
-	bottom: 720px;
+	bottom: 790px;
 
 	background: url("https://www.menada-winery.com/images/homepage/hm_label.png?v=20180612");
 
@@ -322,6 +338,31 @@ padding-top: 25px;
 	background: url("https://www.menada-winery.com/images/homepage/home-intro-video-bg-white-grape.jpg");	
 }
 
+.mark_pic {
+	width: 3.45%;
+	height: 65px;
+	position: absolute;
+	bottom: 720px;
+	background: url("https://www.menada-winery.com/images/homepage/menadamarkW3.png");
+}
 
+.bottles_pic {
+	width: 2.85%;
+	height: 37px;
+	position: absolute;
+	background: url("https://www.menada-winery.com/images/homepage/bottles.svg");
+	margin-left: 970px;
+	top: 1705px;
 
+}
+
+.small_grape_pic {
+	width: 5%;
+	height: 100px;
+	position: absolute;
+	background: url("https://www.menada-winery.com/images/homepage/small-white-grape.png");
+	border:1px white double;
+	margin-left: 300px;
+	top: 1500px;
+}
 
