@@ -235,9 +235,19 @@ padding-top: 25px;
 }
 
 .text_13 {
+	
 	position: absolute;
 	font-family: 'Aldrich', sans-serif;
-	top: 160px;
+	right: 35%;
+}
+
+.text_14 {
+	position: absolute;
+	font-family: 'Aldrich', sans-serif;
+	top: 700px;
+	right: 985px;
+	color: #FFCC00;
+
 }
 
 .bottle_pic_1 {
@@ -449,3 +459,30 @@ padding-top: 25px;
 	left: 0;
 }
 
+.dws_2 {
+	position: absolute;
+	top: 1190%;
+	left: 89.7%;
+}
+
+.butt_2 {
+	border: 3px solid #FFCC00;
+	font-size: 30px;
+	color: #fff;
+	text-decoration: none;
+	width: 250px;
+	height: 120px;
+	display: block;
+	text-align: center;
+	line-height: 60px;
+	font-family: 'Aldrich', sans-serif;
+	position: relative;
+}
+
+.butt_2:hover {
+	color: #FFCC00;
+}
+
+.butt_2:hover:before {
+	left: 0;
+}
