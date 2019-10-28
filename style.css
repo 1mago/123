@@ -214,7 +214,30 @@ padding-top: 25px;
 	font-family: 'Aldrich', sans-serif;
 	bottom: 190px;
 	
-	
+}
+
+.text_11 {
+	position: absolute;
+	font-family: 'Aldrich', sans-serif;
+	top: 220px;
+	right: 960px;
+	color: #FFCC00;
+
+}
+
+.text_12 {
+	position: absolute;
+	font-family: 'Aldrich', sans-serif;
+	top: 220px;
+	right: 230px;
+	color: #FFCC00;
+
+}
+
+.text_13 {
+	position: absolute;
+	font-family: 'Aldrich', sans-serif;
+	top: 160px;
 }
 
 .bottle_pic_1 {
@@ -332,7 +355,6 @@ padding-top: 25px;
 	width: 40%;
 	height: 445px;
 	position: absolute;
-
 	background: url("https://www.menada-winery.com/images/homepage/single-white-grape.png"); left;
 	z-index: 2;
 }
@@ -368,14 +390,35 @@ padding-top: 25px;
 .video_pic {
 	
 	width: 305px;
-	height: 285px;
+	height: 240px;
 	position: absolute;
-	background: url("https://www.menada-winery.com/images/homepage/video-player-bg.jpg");
+	background: url("https://www.menada-winery.com/images/posters/litlevid.jpg");
 	bottom: 260px;
 	right: 0px;
+	
+
 
 }
 
+.about_mg_pic {
+	height: 469px;
+	width: 676px;
+	position: absolute;
+	background: url("https://www.menada-winery.com/images/homepage/about-bg.jpg");
+	top: 200px;
+	right: 520px;
+}
+
+.history_mg_pic {
+	height: 467px;
+	width: 673px;
+	position: absolute;
+	top: 200px;
+	left: -200px;
+	background: url("https://www.menada-winery.com/images/homepage/history-bg.jpg");
+
+
+}
 
 .dws {
 	position: absolute;
@@ -405,3 +448,4 @@ padding-top: 25px;
 .butt:hover:before {
 	left: 0;
 }
+
