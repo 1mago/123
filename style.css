@@ -27,13 +27,13 @@ h1, h2, h3, h4, h5, h6{
 .intro {
 	width: 100%;
 	height: 100vh;
-
+	position: relative;
 	background: url("../university project/white-grape.png") center
 	no-repeat;
 
 	height: 1020px;
 	
-
+	z-index: 2;
  
 
 }
@@ -136,6 +136,7 @@ padding-top: 25px;
 	font-family: 'Aldrich', sans-serif;
 	margin-left: 200px;
 	bottom: 275px;
+	z-index: 2;
 	
 }
 
@@ -144,16 +145,16 @@ padding-top: 25px;
 	font-family: 'Aldrich', sans-serif;
 	margin-left: 200px;
 	bottom: 175px;
-	
+	z-index: 2;
 }
 
 .text_3 {
  	position: absolute;
 	font-family: 'Aldrich', sans-serif;
-	padding-left: 1325px;
+	padding-left: 1260px;
 	bottom: 555px;
 	color: #FFCC00;
-	
+	z-index: 2;
 }
 
 
@@ -163,24 +164,24 @@ padding-top: 25px;
 	padding-left: 1325px;
 	bottom: 165px;
 	color: #FFCC00
-
+	z-index: 2;
 }
 
 .text_5 {	
 	position: absolute;
 	font-family: 'Aldrich', sans-serif;
-	padding-left: 1325px;
-	bottom: -20px;
-	
+	padding-left: 1260px;
+	bottom: 155px;
+	z-index: 2;
 }
 
 .text_6 {
 	position: absolute;
 	font-family: 'Aldrich', sans-serif;
-	padding-left: 1325px;
-	bottom: -60px;
+	padding-left: 1260px;
+	bottom: 45px;
 	color: #FFCC00;
-
+	z-index: 2;
 }
 
 .text_7 {
@@ -189,6 +190,7 @@ padding-top: 25px;
 	text-align: center;
 	margin-left: 650px;
 	margin-top: 350px;
+	z-index: 2;
 }
 
 .text_8 {
@@ -197,6 +199,7 @@ padding-top: 25px;
 	color: #FFCC00;
 	margin-left: 650px;
 	margin-top: 500px;
+	z-index: 2;
 }
 
 .text_9 {
@@ -205,6 +208,7 @@ padding-top: 25px;
 	margin-left: 800px;
 	margin-top: 700px;
 	text-align: center;
+	z-index: 2;
 
 }
 
@@ -212,6 +216,7 @@ padding-top: 25px;
 	position: absolute;
 	font-family: 'Aldrich', sans-serif;
 	bottom: 190px;
+	z-index: 2;
 	
 }
 
@@ -271,26 +276,37 @@ padding-top: 25px;
 	position: absolute;
 	font-family: 'Aldrich', sans-serif;
 	top: 650px;
-	right: 800px;
+	right: 830px;
 
 }
 
 .back_pic {
-	width: 1400px;
-	height: 1400px;
+	width: 1550px;
+	height: 1650px;
 	position: absolute;
-	bottom: 1000px;
-	right: -35px;
+	bottom: 750px;
+	right: -65px;
+	background-color: #181818;
+	z-index: 1;
 
 }
+
+.image_pic {
+	position: relative;
+	width: 1550px;
+	z-index: 1;
+
+}
+
 
 .bottle_pic_1 {
 
 	width: 3.1%;
 	height: 275px;
-	margin-left: 1325px;
+	margin-left: 1260px;
 	position: absolute;
 	bottom: 260px;
+	z-index: 2;
 
 	background: url("https://www.menada-winery.com/images/homepage/menada-bottle-s.png"); right: 
 	
@@ -301,9 +317,10 @@ padding-top: 25px;
 
 	width: 3.1%;
 	height: 275px;
-	margin-left: 1365px;
+	margin-left: 1305px;
 	position: absolute;
 	bottom: 260px;
+	z-index: 2;
 
 
 	background: url("https://www.menada-winery.com/images/homepage/menada-bottle-t.png"); right;
@@ -314,9 +331,10 @@ padding-top: 25px;
 
 	width: 3.1%;
 	height: 275px;
-	margin-left: 1405px;
+	margin-left: 1345px;
 	position: absolute;
 	bottom: 260px;
+	z-index: 2;
 
 	background: url("https://www.menada-winery.com/images/homepage/menada-bottle-c.png"); right: 
 
@@ -326,10 +344,10 @@ padding-top: 25px;
 
 	width: 3.1%;
 	height: 275px;
-	margin-left: 1445px;
+	margin-left: 1385px;
 	position: absolute;
 	bottom: 260px;
-
+	z-index: 2;
 	background: url("https://www.menada-winery.com/images/homepage/menada-bottle-m.png");
 
 }
@@ -338,10 +356,10 @@ padding-top: 25px;
 
 	width: 3.1%;
 	height: 275px;
-	margin-left: 1485px;
+	margin-left: 1425px;
 	position: absolute;
 	bottom: 260px;
-
+	z-index: 2;
 	background: url("https://www.menada-winery.com/images/homepage/menada-bottle-r.png");
 
 }
@@ -350,10 +368,10 @@ padding-top: 25px;
 
 	width: 3.1%;
 	height: 275px;
-	margin-left: 1525px;
+	margin-left: 1465px;
 	position: absolute;
 	bottom: 260px;
-
+	z-index: 2;
 	background: url("https://www.menada-winery.com/images/homepage/menada-bottle-c-red.png");
 
 }
@@ -362,9 +380,10 @@ padding-top: 25px;
 
 	width: 3.1%;
 	height: 275px;
-	margin-left: 1565px;
+	margin-left: 1505px;
 	position: absolute;
 	bottom: 260px;
+	z-index: 2;
 
 	background: url("https://www.menada-winery.com/images/homepage/menada-bottle-m-red.png");
 
@@ -374,10 +393,10 @@ padding-top: 25px;
 
 	width: 3.1%;
 	height: 275px;
-	margin-left: 1605px;
+	margin-left: 1545px;
 	position: absolute;
 	bottom: 260px;
-
+	z-index: 2;
 	background: url("https://www.menada-winery.com/images/homepage/menada-bottle-m-violet.png");
 
 }
@@ -400,7 +419,7 @@ padding-top: 25px;
 	height: 445px;
 	position: absolute;
 	background: url("https://www.menada-winery.com/images/homepage/single-white-grape.png"); left;
-	z-index: 2;
+	z-index: 3;
 }
 
 .grapevine_pic {
@@ -410,7 +429,8 @@ padding-top: 25px;
 	position: absolute;
 	margin-left: 400px;
 	margin-top: 75px;
-	background: url("https://www.menada-winery.com/images/homepage/home-intro-video-bg-white-grape.jpg");	
+	background: url("https://www.menada-winery.com/images/homepage/home-intro-video-bg-white-grape.jpg");
+	z-index: 2;	
 }
 
 .mark_pic {
@@ -428,6 +448,7 @@ padding-top: 25px;
 	background: url("https://www.menada-winery.com/images/homepage/bottles.svg");
 	margin-left: 970px;
 	top: 1705px;
+	z-index: 2;
 
 }
 
@@ -439,6 +460,7 @@ padding-top: 25px;
 	background: url("https://www.menada-winery.com/images/posters/litlevid.jpg");
 	bottom: 260px;
 	right: 0px;
+	z-index: 2;
 	
 
 
@@ -478,9 +500,20 @@ padding-top: 25px;
 	height: 715px;
 	width: 192px;
 	position: absolute;
-	top: 275px;
+	top: 305px;
 	right: 982px;
 	background: url("https://www.menada-winery.com/images/homepage/inovino-large-bottle-red.png");
+	z-index: 2;
+}
+
+.inovine_small_pic {
+	height: 142px;
+	width: 362px;
+	position: absolute;
+	bottom: 700px;
+	right: 280px;
+	background: url("https://www.menada-winery.com/images/homepage/products-grid-inovino-red.jpg");
+
 }
 
 .dws {
@@ -502,6 +535,7 @@ padding-top: 25px;
 	line-height: 60px;
 	font-family: 'Aldrich', sans-serif;
 	position: relative;
+	z-index: 2;
 }
 
 .butt:hover {
@@ -542,8 +576,8 @@ padding-top: 25px;
 
 .dws_3 {
 	position: absolute;
-	top: 770%;
-	right: 300%;
+	top: 785%;
+	right: 310%;
 }
 
 .butt_3 {
@@ -567,3 +601,4 @@ padding-top: 25px;
 .butt_3:hover:before {
 	left: 0;
 }
+
