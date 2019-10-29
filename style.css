@@ -516,6 +516,62 @@ padding-top: 25px;
 
 }
 
+.leaf_pic {
+	height: 596px;
+	width: 670px;
+	position: absolute;
+	left: 219px;
+	bottom: 247px;
+	background: url("https://www.menada-winery.com/images/homepage/tcherga-bottle-bg-large.jpg");
+}
+
+.tcherga_pic {
+	height: 412px;
+	width: 120px;
+	position: absolute;
+	left: 660px;
+	bottom: 247px;
+	background: url("https://www.menada-winery.com/images/homepage/tcherga-bottle-white.png");
+}
+
+.tcherga_pic_2 {
+	color: white;
+	height: 27px;
+	width: 120px;
+	background: url("https://www.menada-winery.com/images/menu/tcherga-muscat-logo.png");
+	position: absolute;
+	bottom: 750px;
+	left: 250px;
+}
+
+.some_bottles_pic {
+	height: 123px;
+	width: 684px;
+	position: absolute;
+	background: url("https://www.menada-winery.com/images/homepage/grid-item-bottom-bg.jpg");
+	top: 95px;
+	right: -38px;
+}
+
+.menada_pic {
+	height: 301px;
+	width: 255px;
+	position: absolute;
+	background: url("https://www.menada-winery.com/images/homepage/menada-symbol-bg.svg");
+	bottom: -120px;
+	left: 270px;
+	z-index: 2;
+}
+
+.menada_picc {
+	height: 400px;
+	width: 670px;
+	position: absolute;
+	left: 220px;
+	bottom: -160px; 
+	background-color: #181818;
+}
+
 .dws {
 	position: absolute;
 	top: 173.9%;
