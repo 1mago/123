@@ -4,9 +4,8 @@ body {
 	font-family: 'Lora', serif;
 	font-size: 18px;
 	color: #F5F5F5;
-	background-color: #282828;
+	background-color: #292929;
 	line-height: 1.6;
-
 }
 
 *,
@@ -250,6 +249,41 @@ padding-top: 25px;
 
 }
 
+.text_15 {
+	position: absolute;
+	font-family: 'Aldrich', sans-serif;
+	bottom: 2459px;
+	left: 320px;
+	color: #FFCC00;
+
+}
+
+.text_16 {
+	position: absolute;
+	font-family: 'Aldrich', sans-serif;
+	bottom: 2451.5px;
+	left: 350px;
+	color: #FFCC00;
+
+}
+
+.text_17 {
+	position: absolute;
+	font-family: 'Aldrich', sans-serif;
+	top: 650px;
+	right: 800px;
+
+}
+
+.back_pic {
+	width: 1400px;
+	height: 1400px;
+	position: absolute;
+	bottom: 1000px;
+	right: -35px;
+
+}
+
 .bottle_pic_1 {
 
 	width: 3.1%;
@@ -430,6 +464,25 @@ padding-top: 25px;
 
 }
 
+.inovino_large_pic {
+	height: 1000px; 
+	width: 684px;
+	position: absolute;
+	top: 160px;
+	right: 736px;
+	background: url("https://sun9-67.userapi.com/c858036/v858036266/c55e4/EQXlwEmSMbg.jpg");
+
+}
+
+.inovino_bottle_pic {
+	height: 715px;
+	width: 192px;
+	position: absolute;
+	top: 275px;
+	right: 982px;
+	background: url("https://www.menada-winery.com/images/homepage/inovino-large-bottle-red.png");
+}
+
 .dws {
 	position: absolute;
 	top: 173.9%;
@@ -484,5 +537,33 @@ padding-top: 25px;
 }
 
 .butt_2:hover:before {
+	left: 0;
+}
+
+.dws_3 {
+	position: absolute;
+	top: 770%;
+	right: 300%;
+}
+
+.butt_3 {
+	border: 3px solid #FFCC00;
+	font-size: 30px;
+	color: #fff;
+	text-decoration: none;
+	width: 180px;
+	height: 60px;
+	display: block;
+	text-align: center;
+	line-height: 60px;
+	font-family: 'Aldrich', sans-serif;
+	position: relative;
+}
+
+.butt_3:hover {
+	color: #FFCC00;
+}
+
+.butt_3:hover:before {
 	left: 0;
 }
