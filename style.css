@@ -276,8 +276,41 @@ padding-top: 25px;
 	position: absolute;
 	font-family: 'Aldrich', sans-serif;
 	top: 650px;
-	right: 830px;
+	right: 800px;
+	text-align: center;
+}
 
+.text_18 {
+	position: absolute;
+	font-family: 'Aldrich', sans-serif;
+	bottom: 400px;
+	left: 250px;
+	text-align: center;
+
+}
+
+.text_19 {
+	position: absolute;
+	font-family: 'Aldrich', sans-serif;
+	bottom: -100px;
+	left: 650px;
+	text-align: center;
+}
+
+.text_20 {
+	position: absolute;
+	font-family: 'Aldrich', sans-serif;
+	bottom: -120px;
+	right: 95px;
+	color: #000000;
+}
+
+.text_21 {
+	position: absolute;
+	font-family: 'Aldrich', sans-serif;
+	bottom: -175px;
+	left: 20px;
+	color: #000000;
 }
 
 .back_pic {
@@ -572,6 +605,16 @@ padding-top: 25px;
 	background-color: #181818;
 }
 
+.menada_bottle_pic {
+	height: 440px;
+	width: 117px;
+	position: absolute;
+	background: url("https://www.menada-winery.com/images/homepage/menada-bottle.png");
+	left: 340px;
+	bottom: -155px;
+	z-index: 3;
+}
+
 .dws {
 	position: absolute;
 	top: 173.9%;
@@ -655,6 +698,34 @@ padding-top: 25px;
 }
 
 .butt_3:hover:before {
+	left: 0;
+}
+
+.dws_4 {
+	position: absolute;
+	top: %;
+	right: %;
+}
+
+.butt_4 {
+	border: 3px solid #FFCC00;
+	font-size: 30px;
+	color: #fff;
+	text-decoration: none;
+	width: 180px;
+	height: 60px;
+	display: block;
+	text-align: center;
+	line-height: 60px;
+	font-family: 'Aldrich', sans-serif;
+	position: relative;
+}
+
+.butt_4:hover {
+	color: #FFCC00;
+}
+
+.butt_4:hover:before {
 	left: 0;
 }
 
