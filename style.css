@@ -58,7 +58,7 @@ h1, h2, h3, h4, h5, h6{
 	text-align: left;
 	vertical-align: bottom;
 	padding-top: 200px;
-	color: #FFCC00;
+	color: #B8860B;
 	padding-top: 150px;
 	
 }
@@ -115,7 +115,7 @@ h1, h2, h3, h4, h5, h6{
 	display: block;
 	width: 100%;
 	height: 3px;
-	background-color: #FFCC00;
+	background-color: #B8860B;
 	position: absolute;
 	top: 100%
 	left: 0;
@@ -124,7 +124,7 @@ h1, h2, h3, h4, h5, h6{
 }
 
 .nav__link:hover {
-	color: #FFCC00;
+	color: #B8860B;
 }
 
 .intro__inner + .intro__inner {
@@ -153,7 +153,7 @@ padding-top: 25px;
 	font-family: 'Aldrich', sans-serif;
 	padding-left: 1260px;
 	bottom: 555px;
-	color: #FFCC00;
+	color: #CD853F;
 	z-index: 2;
 }
 
@@ -162,7 +162,7 @@ padding-top: 25px;
 	position: absolute;
 	font-family: 'Aldrich', sans-serif;
 	padding-left: 1325px;
-	bottom: 165px;
+	top: 100px;
 	color: #FFCC00
 	z-index: 2;
 }
@@ -180,7 +180,7 @@ padding-top: 25px;
 	font-family: 'Aldrich', sans-serif;
 	padding-left: 1260px;
 	bottom: 45px;
-	color: #FFCC00;
+	color: #B8860B;
 	z-index: 2;
 }
 
@@ -196,7 +196,7 @@ padding-top: 25px;
 .text_8 {
 	position: absolute;
 	font-family: 'Aldrich', sans-serif;
-	color: #FFCC00;
+	color: #B8860B;
 	margin-left: 700px;
 	margin-top: 500px;
 	z-index: 2;
@@ -227,7 +227,7 @@ padding-top: 25px;
 	font-family: 'Aldrich', sans-serif;
 	top: 220px;
 	right: 960px;
-	color: #FFCC00;
+	color: #B8860B;
 
 }
 
@@ -236,7 +236,7 @@ padding-top: 25px;
 	font-family: 'Aldrich', sans-serif;
 	top: 220px;
 	right: 230px;
-	color: #FFCC00;
+	color: #B8860B;
 
 }
 
@@ -252,7 +252,7 @@ padding-top: 25px;
 	font-family: 'Aldrich', sans-serif;
 	top: 700px;
 	right: 985px;
-	color: #FFCC00;
+	color: #B8860B;
 
 }
 
@@ -261,7 +261,7 @@ padding-top: 25px;
 	font-family: 'Aldrich', sans-serif;
 	bottom: 2459px;
 	left: 320px;
-	color: #FFCC00;
+	color: #B8860B;
 
 }
 
@@ -270,7 +270,7 @@ padding-top: 25px;
 	font-family: 'Aldrich', sans-serif;
 	bottom: 2451.5px;
 	left: 350px;
-	color: #FFCC00;
+	color: #B8860B;
 
 }
 
@@ -320,7 +320,7 @@ padding-top: 25px;
 	top: 330px;
 	right: 1300px;
 	font-family: 'Aldrich', sans-serif;
-	color: #FFCC00;
+	color: #B8860B;
 	display: inline-block;
 	-webkit-transform: rotate(-90deg);
 	-moz-transform: rotate(-90deg);
@@ -334,7 +334,7 @@ padding-top: 25px;
 	top: 260px;
 	right: 1316px;
 	font-family: 'Aldrich', sans-serif;
-	color: #FFCC00;
+	color: #B8860B;
 	display: inline-block;
 	-webkit-transform: rotate(-90deg);
 	-moz-transform: rotate(-90deg);
@@ -349,7 +349,7 @@ padding-top: 25px;
 	top: 290px;
 	right: 1220px;
 	font-family: 'Aldrich', sans-serif;
-	color: #FFCC00;
+	color: #B8860B;
 	display: inline-block;
 	-webkit-transform: rotate(-90deg);
 	-moz-transform: rotate(-90deg);
@@ -373,6 +373,118 @@ padding-top: 25px;
 	font-family: 'Aldrich', sans-serif;
 
 }
+
+.text_27 {
+	position: absolute;
+	top: 510px;
+	right: 80px;
+	font-family: 'Aldrich', sans-serif;
+	color: #B8860B;
+}
+
+.text_28 {
+	position: absolute;
+	top: 625px;
+	right: 80px;
+	font-family: 'Aldrich', sans-serif;
+	color: #000000;
+}
+
+.text_29 {
+	position: absolute;
+	top: 1150px;
+	right: 550px;
+	font-family: 'Aldrich', sans-serif;
+	color: #B8860B;
+}
+
+.text_30 {
+	position: absolute;
+	top: 1150px;
+	right: 470px;
+	font-family: 'Aldrich', sans-serif;
+}
+
+.text_31 {
+	position: absolute;
+	top: 1150px;
+	right: 90px;
+	font-family: 'Aldrich', sans-serif;
+}
+
+.text_32 {
+	top: 1300px;
+	right: 450px;
+	position: absolute;
+	font-family: 'Aldrich', sans-serif;
+	color: #B8860B;
+}
+
+.text_33 {
+	top: 1300px;
+	right: 100px;
+	position: absolute;
+	font-family: 'Aldrich', sans-serif;
+	color: #B8860B;
+}
+
+.text_34 {
+	bottom: 1900px;
+	right: 1200px;
+	position: absolute;
+	font-family: 'Aldrich', sans-serif;
+	color: #B8860B;
+	display: inline-block;
+	-webkit-transform: rotate(-90deg);
+	-moz-transform: rotate(-90deg);
+	-o-transform: rotate(-90deg);
+	-ms-transform: rotate(-90deg);
+	transform: rotate(-90deg);
+	z-index: 2;
+}
+
+.text_35 {
+	bottom: 1800px;
+	right: 1290px;
+	position: absolute;
+	font-family: 'Aldrich', sans-serif;
+	display: inline-block;
+	-webkit-transform: rotate(-90deg);
+	-moz-transform: rotate(-90deg);
+	-o-transform: rotate(-90deg);
+	-ms-transform: rotate(-90deg);
+	transform: rotate(-90deg);
+	z-index: 2;
+}
+
+.text_36 {
+	bottom: 1900px;
+	right: 1270px;
+	position: absolute;
+	font-family: 'Aldrich', sans-serif;
+	display: inline-block;
+	-webkit-transform: rotate(-90deg);
+	-moz-transform: rotate(-90deg);
+	-o-transform: rotate(-90deg);
+	-ms-transform: rotate(-90deg);
+	transform: rotate(-90deg);
+	z-index: 2;
+}
+
+.text_37 {
+	bottom: 2000px;
+	right: 1290px;
+	position: absolute;
+	font-family: 'Aldrich', sans-serif;
+	display: inline-block;
+	-webkit-transform: rotate(-90deg);
+	-moz-transform: rotate(-90deg);
+	-o-transform: rotate(-90deg);
+	-ms-transform: rotate(-90deg);
+	transform: rotate(-90deg);
+	z-index: 3;
+}
+
 
 .back_pic {
 	width: 1550px;
@@ -693,6 +805,7 @@ padding-top: 25px;
 	width: 609px;
 	position: absolute;
 	background: url("https://www.menada-winery.com/images/homepage/bulgaria-map.png");
+	z-index: 2;
 }
 
 .menada_again_pic {
@@ -713,6 +826,36 @@ padding-top: 25px;
 	background: url("https://www.menada-winery.com/images/homepage/glass.png");
 }
 
+.whiteback_pic {
+	top: 335px;
+	right: 20px;
+	height: 450px;
+	width: 300px;
+	position: absolute;
+	background-color: #DCDCDC;
+}
+
+.winehands_pic {
+	top: 1100px;
+	right: 485px;
+	height: 719px;
+	width: 886px;
+	position: absolute;
+	background: url("https://www.menada-winery.com/images/homepage/wine-hands.png");
+	z-index: 2;
+
+}
+
+.blackback_pic {
+	top: 1100px;
+	right: 20px;
+	height: 590px;
+	width: 1350px;
+	position: absolute;
+	background-color: #171717;
+
+}
+
 .dws {
 	position: absolute;
 	top: 173.9%;
@@ -721,7 +864,7 @@ padding-top: 25px;
 }
 
 .butt {
-	border: 3px solid #FFCC00;
+	border: 3px solid #B8860B;
 	font-size: 30px;
 	color: #fff;
 	text-decoration: none;
@@ -736,7 +879,7 @@ padding-top: 25px;
 }
 
 .butt:hover {
-	color: #FFCC00;
+	color: #B8860B;
 }
 
 .butt:hover:before {
@@ -750,7 +893,7 @@ padding-top: 25px;
 }
 
 .butt_2 {
-	border: 3px solid #FFCC00;
+	border: 3px solid #B8860B;
 	font-size: 30px;
 	color: #fff;
 	text-decoration: none;
@@ -764,7 +907,7 @@ padding-top: 25px;
 }
 
 .butt_2:hover {
-	color: #FFCC00;
+	color: #B8860B;
 }
 
 .butt_2:hover:before {
@@ -778,7 +921,7 @@ padding-top: 25px;
 }
 
 .butt_3 {
-	border: 3px solid #FFCC00;
+	border: 3px solid #B8860B;
 	font-size: 30px;
 	color: #fff;
 	text-decoration: none;
@@ -792,7 +935,7 @@ padding-top: 25px;
 }
 
 .butt_3:hover {
-	color: #FFCC00;
+	color: #B8860B;
 }
 
 .butt_3:hover:before {
@@ -806,7 +949,7 @@ padding-top: 25px;
 }
 
 .butt_4 {
-	border: 3px solid #FFCC00;
+	border: 3px solid #B8860B;
 	font-size: 30px;
 	color: #fff;
 	text-decoration: none;
@@ -820,7 +963,7 @@ padding-top: 25px;
 }
 
 .butt_4:hover {
-	color: #FFCC00;
+	color: #B8860B;
 }
 
 .butt_4:hover:before {
@@ -834,7 +977,7 @@ padding-top: 25px;
 }
 
 .butt_5 {
-	border: 3px solid #FFCC00;
+	border: 3px solid #B8860B;
 	font-size: 30px;
 	color: #fff;
 	text-decoration: none;
@@ -848,7 +991,7 @@ padding-top: 25px;
 }
 
 .butt_5:hover {
-	color: #FFCC00;
+	color: #B8860B;
 }
 
 .butt_5:hover:before {
