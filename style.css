@@ -131,6 +131,105 @@ h1, h2, h3, h4, h5, h6{
 padding-top: 25px;
 }
 
+.hor_line_1 {
+	top: 393px;
+	left: 300px;
+	position: absolute;
+	width: 250px;
+	background-color: #B8860B;
+	border: none;
+	height: 2px;
+
+}
+
+.hor_line_2 {
+	top: 515px;
+	left: 300px;
+	position: absolute;
+	width: 250px;
+	background-color: #B8860B;
+	border: none;
+	height: 2px;
+
+}
+
+.hor_line_3 {
+	bottom: 3870px;
+	left: 70px;
+	position: absolute;
+	width: 100px;
+	background-color: #B8860B;
+	border: none;
+	height: 2px;
+	z-index: 2;
+}
+
+.hor_line_4 {
+	bottom: 4479px;
+	left: 628px;
+	position: absolute;
+	width: 100px;
+	background-color: #B8860B;
+	border: none;
+	height: 2px;
+	z-index: 2;
+}
+
+.hor_line_5 {
+	bottom: 4610px;
+	left: -433px;
+	position: absolute;
+	width: 100px;
+	background-color: #fff;
+	border: none;
+	height: 2px;
+	z-index: 2;
+}
+
+.hor_line_6 {
+	bottom: 1518px;
+	left: -29px;
+	position: absolute;
+	width: 50px;
+	background-color: #fff;
+	border: none;
+	height: 1px;
+	z-index: 2;
+}
+
+.hor_line_7 {
+	bottom: 300px;
+	left: 675px;
+	position: absolute;
+	width: 100px;
+	background-color: #B8860B;
+	border: none;
+	height: 2px;
+	z-index: 2;
+}
+
+.hor_line_8 {
+	top: 470px;
+	right: 485px;
+	position: absolute;
+	width: 50px;
+	background-color: #B8860B;
+	border: none;
+	height: 1px;
+	z-index: 2;
+}
+
+.hor_line_9 {
+	top: 710px;
+	right: 485px;
+	position: absolute;
+	width: 50px;
+	background-color: #B8860B;
+	border: none;
+	height: 1px;
+	z-index: 2;
+}
+
 .text { 
 	position: absolute;
 	font-family: 'Aldrich', sans-serif;
@@ -143,7 +242,7 @@ padding-top: 25px;
 .text_2 {
 	position: absolute;
 	font-family: 'Aldrich', sans-serif;
-	margin-left: 200px;
+	margin-left: 310px;
 	bottom: 175px;
 	z-index: 2;
 }
@@ -180,7 +279,7 @@ padding-top: 25px;
 .text_6 {
 	position: absolute;
 	font-family: 'Aldrich', sans-serif;
-	padding-left: 1260px;
+	padding-left: 1370px;
 	bottom: 45px;
 	color: #B8860B;
 	z-index: 2;
@@ -199,7 +298,7 @@ padding-top: 25px;
 	position: absolute;
 	font-family: 'Aldrich', sans-serif;
 	color: #B8860B;
-	margin-left: 700px;
+	margin-left: 810px;
 	margin-top: 500px;
 	z-index: 2;
 }
@@ -371,7 +470,7 @@ padding-top: 25px;
 .text_26 {
 	position: absolute;
 	top: 360px;
-	right: 802px;
+	right: 747apx;
 	font-family: 'Aldrich', sans-serif;
 
 }
@@ -489,7 +588,7 @@ padding-top: 25px;
 
 .text_38 {
 	top: 1770px;
-	right: 740px;
+	right: 836px;
 	position: absolute;
 	font-family: 'Aldrich', sans-serif;
 	color: #B8860B;
@@ -497,10 +596,174 @@ padding-top: 25px;
 
 .text_39 {
 	top: 1800px;
-	right: 715px;
+	right: 811px;
 	position: absolute;
 	font-family: 'Aldrich', sans-serif;
 	color: #B8860B;
+}
+
+.text_40 {
+	text-align: center;
+	bottom: -55px;
+	left: 367px;
+	position: absolute;
+	font-family: 'Aldrich', sans-serif;
+	color: #B8860B;
+}
+
+.text_41 {
+	text-align: center;
+	bottom: -115px;
+	left: 670px;
+	position: absolute;
+	font-family: 'Aldrich', sans-serif;
+	color: #B8860B;
+}
+
+.text_42 {
+	top: 325px;
+	left: 350px;
+	position: absolute;
+	font-family: 'Aldrich', sans-serif;
+	color: #B8860B;
+}
+
+.text_43 {
+	top: 440px;
+	left: 345px;
+	position: absolute;
+	font-family: 'Aldrich', sans-serif;
+	color: #B8860B;
+}
+
+.text_44 {
+	top: 540px;
+	left: 345px;
+	position: absolute;
+	font-family: 'Aldrich', sans-serif;
+	color: #B8860B;
+}
+
+.text_45 {
+	top: 560px;
+	left: 713px;
+	position: absolute;
+	font-family: 'Aldrich', sans-serif;
+	color: #B8860B;
+}
+
+.text_46 {
+	top: 160px;
+	left: -420px;
+	position: absolute;
+	font-family: 'Aldrich', sans-serif;
+	color: #000000;
+}
+
+.text_47 {
+	top: 160px;
+	left: -100px;
+	position: absolute;
+	font-family: 'Aldrich', sans-serif;
+	color: #000000;
+}
+
+.text_48 {
+	bottom: 1517px;
+	left: 30px;
+	position: absolute;
+	font-family: 'Aldrich', sans-serif;
+}
+
+.text_49 {
+	bottom: 297px;
+	left: 795px;
+	position: absolute;
+	font-family: 'Aldrich', sans-serif;
+	color: #B8860B;
+}
+
+.text_50 {
+	top: 350px;
+	right: 510px;
+	color: #B8860B;
+	position: absolute;
+	font-family: 'Aldrich', sans-serif;
+	display: inline-block;
+	-webkit-transform: rotate(-90deg);
+	-moz-transform: rotate(-90deg);
+	-o-transform: rotate(-90deg);
+	-ms-transform: rotate(-90deg);
+	transform: rotate(-90deg);
+}
+
+.text_51 {
+	top: 570px;
+	right: 500px;
+	color: #B8860B;
+	position: absolute;
+	font-family: 'Aldrich', sans-serif;
+	display: inline-block;
+	-webkit-transform: rotate(-90deg);
+	-moz-transform: rotate(-90deg);
+	-o-transform: rotate(-90deg);
+	-ms-transform: rotate(-90deg);
+	transform: rotate(-90deg);
+}
+
+.text_52 {
+	top: 320px;
+	right: 360px;
+	position: absolute;
+	font-family: 'Aldrich', sans-serif;
+}
+
+.text_53 {
+	top: 530px;
+	right: 360px;
+	position: absolute;
+	font-family: 'Aldrich', sans-serif;
+	
+}
+
+.text_54 {
+	top: 699px;
+	right: 300px;
+	position: absolute;
+	font-family: 'Aldrich', sans-serif;
+	color: #B8860B;
+}
+
+.text_55 {
+	top: 459px;
+	right: 300px;
+	position: absolute;
+	font-family: 'Aldrich', sans-serif;
+	color: #B8860B;
+}
+
+.text_56 {
+	top: 270px;
+	left: 200px;
+	position: absolute;
+	font-family: 'Aldrich', sans-serif;
+	text-align: center;
+}
+
+.text_57 {
+	top: 270px;
+	right: 420px;
+	position: absolute;
+	font-family: 'Aldrich', sans-serif;
+	text-align: center;
+}
+
+.text_58 {
+	top: 270px;
+	left: 750px;
+	position: absolute;
+	font-family: 'Aldrich', sans-serif;
+	text-align: center;
 }
 
 
@@ -880,7 +1143,99 @@ padding-top: 25px;
 	width: 350px;
 	background-color: #171717;
 	top: 1600px;
-	right: 600px;
+	right: 696px;
+}
+
+.cucumber_pic {
+	height: 414px;
+	width: 338px;
+	left: 258px;
+	bottom: -193px;
+	position: absolute;
+	background: url("https://www.menada-winery.com/attachments/Recipe/10/main/cucumber_thumb-list.jpg");
+}
+
+.watermelon_pic {
+	height: 414px;
+	width: 338px;
+	bottom: -192px;
+	left: 596px;
+	position: absolute;
+	background: url("https://www.menada-winery.com/attachments/Recipe/9/main/watermelon_thumb-list.jpg");
+
+}
+
+.anotherblacksquare_pic {
+	top: 300px;
+	left: 258px;
+	height: 310px;
+	width: 338px;
+	position: absolute;
+	background-color: #171717;
+}
+
+.anotherblacksquare_pic_2 {
+	top: 300px;
+	left: 596px;
+	height: 310px;
+	width: 338px;
+	position: absolute;
+	background-color: #252525;
+}
+
+.MBWS_pic {
+	top: 310px;
+	left: 685px;
+	height: 206px;
+	width: 166px;
+	position: absolute;
+	background: url("https://www.menada-winery.com/images/homepage/footer-logo-mb.png");
+}
+
+.footer_mail_pic {
+	height: 21px; 
+	width: 28px;
+	top: 455px;
+	left: 300px;
+	position: absolute;
+	background: url("https://www.menada-winery.com/images/homepage/footer-mail.svg");
+	z-index: 2;
+
+}
+
+.footer_pin_pic {
+	height: 25px;
+	width: 27px;
+	top: 559px;
+	left: 298px;
+	position: absolute;
+	background: url("https://www.menada-winery.com/images/homepage/footer-pin.svg");
+	z-index: 2;
+}
+
+
+.footer_phone_pic {
+	height: 27px; 
+	width: 28px;
+	top: 337px;
+	left: 300px;
+	position: absolute;
+	background: url("https://www.menada-winery.com/images/homepage/footer-phone.svg");
+	z-index: 2;
+}
+
+.info_pic {
+	top: 130px;
+	left: 260px;
+	height: 128px;
+	width: 156px;
+	position: absolute;
+	background: url("https://www.menada-winery.com/images/homepage/footer-image.png");
+
+}
+
+.bottom_logo_pic {
+	
 }
 
 .dws {
@@ -1028,7 +1383,7 @@ padding-top: 25px;
 .dws_6 {
 	position: absolute;
 	top: 3080%;
-	right: 375%;
+	right: 430%;
 }
 
 .butt_6 {
@@ -1050,6 +1405,314 @@ padding-top: 25px;
 }
 
 .butt_6:hover:before {
+	left: 0;
+}
+
+.dws_7 {
+	position: absolute;
+	top: 1300%;
+	right: 205%;
+}
+
+.butt_7 {
+	border: 3px solid #B8860B;
+	font-size: 30px;
+	color: #fff;
+	text-decoration: none;
+	width: 180px;
+	height: 60px;
+	display: block;
+	text-align: center;
+	line-height: 60px;
+	font-family: 'Aldrich', sans-serif;
+	position: relative;
+}
+
+.butt_7:hover {
+	color: #B8860B;
+}
+
+.butt_7:hover:before {
+	left: 0;
+}
+
+.dws_8 {
+	position: absolute;
+	bottom: 740%;
+	left: 163%;
+}
+
+.butt_8 {
+	border: 3px solid #B8860B;
+	font-size: 30px;
+	color: #fff;
+	text-decoration: none;
+	width: 180px;
+	height: 60px;
+	display: block;
+	text-align: center;
+	line-height: 60px;
+	font-family: 'Aldrich', sans-serif;
+	position: relative;
+}
+
+.butt_8:hover {
+	color: #B8860B;
+}
+
+.butt_8:hover:before {
+	left: 0;
+}
+
+.dws_9 {
+	position: absolute;
+	bottom: -150%;
+	left: px;
+}
+
+.butt_9 {
+	border: 3px solid #B8860B;
+	font-size: 30px;
+	color: #fff;
+	text-decoration: none;
+	width: 280px;
+	height: 60px;
+	display: block;
+	text-align: center;
+	line-height: 60px;
+	font-family: 'Aldrich', sans-serif;
+	position: relative;
+}
+
+.butt_9:hover {
+	color: #B8860B;
+}
+
+.butt_9:hover:before {
+	left: 0;
+}
+
+.dws_10 {
+	position: absolute;
+	top: 150%;
+	right: %;
+}
+
+.butt_10 {
+	border: 3px solid #B8860B;
+	font-size: 30px;
+	color: #fff;
+	text-decoration: none;
+	width: 180px;
+	height: 60px;
+	display: block;
+	text-align: center;
+	line-height: 60px;
+	font-family: 'Aldrich', sans-serif;
+	position: relative;
+}
+
+.butt_10:hover {
+	color: #B8860B;
+}
+
+.butt_10:hover:before {
+	left: 0;
+}
+
+.dws_11 {
+	position: absolute;
+	top: 150%;
+	right: %;
+}
+
+.butt_11 {
+	border: 3px solid #B8860B;
+	font-size: 30px;
+	color: #fff;
+	text-decoration: none;
+	width: 180px;
+	height: 60px;
+	display: block;
+	text-align: center;
+	line-height: 60px;
+	font-family: 'Aldrich', sans-serif;
+	position: relative;
+}
+
+.butt_11:hover {
+	color: #B8860B;
+}
+
+.butt_11:hover:before {
+	left: 0;
+}
+
+.dws_12 {
+	position: absolute;
+	top: 150%;
+	right: %;
+}
+
+.butt_12 {
+	border: 3px solid #B8860B;
+	font-size: 30px;
+	color: #fff;
+	text-decoration: none;
+	width: 280px;
+	height: 60px;
+	display: block;
+	text-align: center;
+	line-height: 60px;
+	font-family: 'Aldrich', sans-serif;
+	position: relative;
+}
+
+.butt_12:hover {
+	color: #B8860B;
+}
+
+.butt_12:hover:before {
+	left: 0;
+}
+
+.dws_13 {
+	position: absolute;
+	top: 150%;
+	right: %;
+}
+
+.butt_13 {
+	border: 3px solid #B8860B;
+	font-size: 30px;
+	color: #fff;
+	text-decoration: none;
+	width: 180px;
+	height: 60px;
+	display: block;
+	text-align: center;
+	line-height: 60px;
+	font-family: 'Aldrich', sans-serif;
+	position: relative;
+}
+
+.butt_13:hover {
+	color: #B8860B;
+}
+
+.butt_13:hover:before {
+	left: 0;
+}
+
+.dws_14 {
+	position: absolute;
+	top: 150%;
+	right: %;
+}
+
+.butt_14 {
+	border: 3px solid #B8860B;
+	font-size: 30px;
+	color: #fff;
+	text-decoration: none;
+	width: 280px;
+	height: 60px;
+	display: block;
+	text-align: center;
+	line-height: 60px;
+	font-family: 'Aldrich', sans-serif;
+	position: relative;
+}
+
+.butt_14:hover {
+	color: #B8860B;
+}
+
+.butt_14:hover:before {
+	left: 0;
+}
+
+.dws_15 {
+	position: absolute;
+	top: 150%;
+	right: %;
+}
+
+.butt_15 {
+	border: 3px solid #B8860B;
+	font-size: 30px;
+	color: #fff;
+	text-decoration: none;
+	width: 180px;
+	height: 60px;
+	display: block;
+	text-align: center;
+	line-height: 60px;
+	font-family: 'Aldrich', sans-serif;
+	position: relative;
+}
+
+.butt_15:hover {
+	color: #B8860B;
+}
+
+.butt_15:hover:before {
+	left: 0;
+}
+
+.dws_16 {
+	position: absolute;
+	top: 150%;
+	right: %;
+}
+
+.butt_16 {
+	border: 3px solid #B8860B;
+	font-size: 30px;
+	color: #fff;
+	text-decoration: none;
+	width: 330px;
+	height: 60px;
+	display: block;
+	text-align: center;
+	line-height: 60px;
+	font-family: 'Aldrich', sans-serif;
+	position: relative;
+}
+
+.butt_16:hover {
+	color: #B8860B;
+}
+
+.butt_16:hover:before {
+	left: 0;
+}
+
+.dws_17 {
+	position: absolute;
+	top: 150%;
+	right: %;
+}
+
+.butt_17 {
+	border: 3px solid #B8860B;
+	font-size: 30px;
+	color: #fff;
+	text-decoration: none;
+	width: 280px;
+	height: 60px;
+	display: block;
+	text-align: center;
+	line-height: 60px;
+	font-family: 'Aldrich', sans-serif;
+	position: relative;
+}
+
+.butt_17:hover {
+	color: #B8860B;
+}
+
+.butt_17:hover:before {
 	left: 0;
 }
 
