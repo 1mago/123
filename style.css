@@ -268,31 +268,6 @@ padding-top: 25px;
 	
 }
 
-.text_5 {	
-	position: absolute;
-	font-family: 'Aldrich', sans-serif;
-	padding-left: 1260px;
-	bottom: 80px;
-	z-index: 2;
-}
-
-.text_6 {
-	position: absolute;
-	font-family: 'Aldrich', sans-serif;
-	padding-left: 1370px;
-	bottom: 45px;
-	color: #B8860B;
-	z-index: 2;
-}
-
-.text_7 {
-	position: absolute;
-	font-family: 'Aldrich', sans-serif;
-	text-align: center;
-	margin-left: 700px;
-	margin-top: 350px;
-	z-index: 2;
-}
 
 .text_8 {
 	position: absolute;
@@ -922,85 +897,7 @@ padding-top: 25px;
 }
 
 .mark_pic {
-	width: 3.45%;
-	height: 65px;
-	position: absolute;
-	bottom: 720px;
-	background: url("https://www.menada-winery.com/images/homepage/menadamarkW3.png");
-}
 
-.bottles_pic {
-	width: 2.85%;
-	height: 37px;
-	position: absolute;
-	background: url("https://www.menada-winery.com/images/homepage/bottles.svg");
-	margin-left: 1020px;
-	top: 1705px;
-	z-index: 2;
-
-}
-
-.video_pic {
-	
-	width: 305px;
-	height: 240px;
-	position: absolute;
-	background: url("https://www.menada-winery.com/images/posters/litlevid.jpg");
-	bottom: 260px;
-	left: -4px;
-	right: 0px;
-	z-index: 2;
-	
-
-
-}
-
-.about_mg_pic {
-	height: 469px;
-	width: 676px;
-	position: absolute;
-	background: url("https://www.menada-winery.com/images/homepage/about-bg.jpg");
-	top: 200px;
-	right: 520px;
-}
-
-.history_mg_pic {
-	height: 467px;
-	width: 673px;
-	position: absolute;
-	top: 200px;
-	left: -200px;
-	background: url("https://www.menada-winery.com/images/homepage/history-bg.jpg");
-
-
-}
-
-.inovino_large_pic {
-	height: 1000px; 
-	width: 684px;
-	position: absolute;
-	top: 160px;
-	right: 736px;
-	background: url("https://sun9-67.userapi.com/c858036/v858036266/c55e4/EQXlwEmSMbg.jpg");
-
-}
-
-.inovino_bottle_pic {
-	height: 715px;
-	width: 192px;
-	position: absolute;
-	top: 305px;
-	right: 982px;
-	background: url("https://www.menada-winery.com/images/homepage/inovino-large-bottle-red.png");
-	z-index: 2;
-}
-
-.inovine_small_pic {
-	height: 142px;
-	width: 362px;
-	position: absolute;
-	bottom: 700px;
-	right: 280px;
 	background: url("https://www.menada-winery.com/images/homepage/products-grid-inovino-red.jpg");
 
 }
